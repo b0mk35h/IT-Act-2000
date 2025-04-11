@@ -5,3 +5,5 @@ http://www.xssgame.com/
 https://prompt.ml/0
 
 https://github.com/hasanfirnas/Devil-s-Call
+
+https://github.com/08hakr/learn-/blob/main/EJPT/eJPT%20Final%20Exam%20Attempt.md

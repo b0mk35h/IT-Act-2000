@@ -18,3 +18,5 @@ https://certs.ine.com/6613c694-4771-49c9-962c-2e03e4d98978
 https://docs.google.com/spreadsheets/d/19BDUiP4550EVGXIYw-hJzbUe9caUuL0aZioWGKhlXDw/edit?uspsharing
 
 https://coursera.org/share/e875960bd40ec40d5d680ab9be0c7e78
+
+https://docs.google.com/spreadsheets/d/1LgDf_dmskU8-dHZ1rGoPP4t2DKlRljK136j6l_do--c/edit?usp=sharing
